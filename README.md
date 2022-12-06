@@ -47,17 +47,3 @@ Note:
 Admin username:admin
 
 Admin password:laundropilani
-
-
-
-UML Class Diagram
-
-![](Aspose.Words.1d7c9f8b-e9b4-46a3-9dab-b636fadd3961.004.png)
-
-UML Use case Diagram
-
-![](Aspose.Words.1d7c9f8b-e9b4-46a3-9dab-b636fadd3961.005.png)
-
-UML Sequence Diagram
-
-![](Aspose.Words.1d7c9f8b-e9b4-46a3-9dab-b636fadd3961.006.png)
